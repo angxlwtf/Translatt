@@ -1,0 +1,7 @@
+C:\Users\angel\source\repos\carti translator\carti translator\obj\Debug\carti translator.csprojAssemblyReference.cache
+C:\Users\angel\source\repos\carti translator\carti translator\obj\Debug\carti translator.csproj.CoreCompileInputs.cache
+C:\Users\angel\source\repos\carti translator\carti translator\bin\Debug\translatt.exe.config
+C:\Users\angel\source\repos\carti translator\carti translator\bin\Debug\translatt.exe
+C:\Users\angel\source\repos\carti translator\carti translator\bin\Debug\translatt.pdb
+C:\Users\angel\source\repos\carti translator\carti translator\obj\Debug\translatt.exe
+C:\Users\angel\source\repos\carti translator\carti translator\obj\Debug\translatt.pdb
