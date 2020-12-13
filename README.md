@@ -1,4 +1,4 @@
-# Translatt
+# translatt
 Playboi Carti translator written in C#
 
 # Translation
